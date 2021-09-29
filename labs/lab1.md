@@ -16,19 +16,19 @@ During class, we explored the concept of Linux distribution. During this lab, yo
 Go to [Distrowatch](https://distrowatch.com/). Explore the website to get familiar with the home page. On the top left corner, you have a form that allows you to submit queries to the website. In the **“Type Distribution Name”** box type **“Ubuntu”.**  This will return details about Ubuntu. Explore the Ubuntu Distrowatch page and answer the following questions:
 
 1. What is the OS Type: 
-   * **Type your answer here**
+   * **Linux**
 
 2. Which major distro is it based on?  
-   * **Type your answer here**
+   * **Debian**
    
 3. Which processor architecture does it support?  
-   * **Type your answer here**
+   * **armhf, ppc64el, riscv, s360x, x86_64**
 
 4. Is the distribution active or is it discontinued?  
-   * **Type your answer here**
+   * **Active**
 
 5. What is the distro’s home page?  
-   * **Type your answer here**
+   * **https://www.ubuntu.com/**
 
 ### Question 2
 On the top left corner, click on “Random Distribution” and answer the following questions from the distro you got.
